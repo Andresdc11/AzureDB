@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Hzchy7LBwvvvUHGh0RhRPhZvluVTJOYO/y20NCg4jgE=",
+  "Source": "Azurenet",
+  "BasePath": "_content/Azurenet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
