@@ -10,3 +10,4 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 dotnet ef migrations add InitialCreate
 
 dotnet publish -c Release -o ./Publish para publicar nuestra app
+complemento azure app service 
