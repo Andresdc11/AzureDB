@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XfvsNPOFvv2bpAXSp6PbexMMz8kC5NEzq9cZVbKJlXc=",
+  "Source": "Azurenet",
+  "BasePath": "_content/Azurenet",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
